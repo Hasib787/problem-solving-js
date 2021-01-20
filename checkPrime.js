@@ -7,5 +7,5 @@ function isPrime(n){
     }
     return 'Its a prime number';
 }
-let result=isPrime(23);
+let result=isPrime(15);
 console.log(result);
