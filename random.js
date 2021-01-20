@@ -1,0 +1,10 @@
+let num=2.2556;
+let result=Math.floor(num);
+let result1=Math.ceil(num);
+let result2=Math.round(num);
+let randomNumber=Math.random()*6;
+let dice=Math.round(randomNumber);
+// console.log(result);
+// console.log(result1);
+// console.log(result2);
+console.log(dice);
