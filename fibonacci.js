@@ -8,5 +8,6 @@ function fibonacci(n) {
     }
     return fibo;
 }
+console.log(fibonacci(10));
 let result=fibonacci(12);
 console.log(result);
