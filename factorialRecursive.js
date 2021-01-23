@@ -9,5 +9,5 @@ function factorial(n) {
         return n * factorial(n - 1);
     }
 }
-let result = factorial(0);
+let result = factorial(5);
 console.log(result);
