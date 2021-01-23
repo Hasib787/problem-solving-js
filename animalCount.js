@@ -17,3 +17,4 @@ function animalCalculator(depth) {
     return animal;
 }
 console.log(animalCalculator(22));
+console.log(animalCalculator(12));
